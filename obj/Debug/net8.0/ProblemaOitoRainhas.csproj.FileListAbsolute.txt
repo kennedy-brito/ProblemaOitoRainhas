@@ -1,0 +1,14 @@
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\bin\Debug\net8.0\ProblemaOitoRainhas.exe
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\bin\Debug\net8.0\ProblemaOitoRainhas.deps.json
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\bin\Debug\net8.0\ProblemaOitoRainhas.runtimeconfig.json
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\bin\Debug\net8.0\ProblemaOitoRainhas.dll
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\bin\Debug\net8.0\ProblemaOitoRainhas.pdb
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\obj\Debug\net8.0\ProblemaOitoRainhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\obj\Debug\net8.0\ProblemaOitoRainhas.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\obj\Debug\net8.0\ProblemaOitoRainhas.AssemblyInfo.cs
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\obj\Debug\net8.0\ProblemaOitoRainhas.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\obj\Debug\net8.0\ProblemaOitoRainhas.dll
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\obj\Debug\net8.0\refint\ProblemaOitoRainhas.dll
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\obj\Debug\net8.0\ProblemaOitoRainhas.pdb
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\obj\Debug\net8.0\ProblemaOitoRainhas.genruntimeconfig.cache
+C:\Users\willi\source\repos\c#\ProblemaOitoRainhas\obj\Debug\net8.0\ref\ProblemaOitoRainhas.dll
